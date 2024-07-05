@@ -1,6 +1,6 @@
-package cnb.test.entity;
+package cnb.testmod.entity;
 
-import cnb.test.TestMod;
+import cnb.testmod.TestMod;
 import net.fabricmc.fabric.api.object.builder.v1.entity.FabricEntityTypeBuilder;
 import net.minecraft.entity.*;
 import net.minecraft.registry.Registries;

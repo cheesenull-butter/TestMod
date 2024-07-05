@@ -1,6 +1,6 @@
-package cnb.test.item;
+package cnb.testmod.item;
 
-import cnb.test.TestMod;
+import cnb.testmod.TestMod;
 import net.minecraft.item.*;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;

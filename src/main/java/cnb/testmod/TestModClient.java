@@ -1,9 +1,9 @@
-package cnb.test;
+package cnb.testmod;
 
-import cnb.test.entity.TestEntities;
-import cnb.test.entity.client.SnailModel;
-import cnb.test.entity.client.SnailRenderer;
-import cnb.test.entity.client.TestModelLayers;
+import cnb.testmod.entity.TestEntities;
+import cnb.testmod.entity.client.SnailModel;
+import cnb.testmod.entity.client.SnailRenderer;
+import cnb.testmod.entity.client.TestModelLayers;
 import net.fabricmc.api.ClientModInitializer;
 import net.fabricmc.fabric.api.client.rendering.v1.EntityModelLayerRegistry;
 import net.fabricmc.fabric.api.client.rendering.v1.EntityRendererRegistry;

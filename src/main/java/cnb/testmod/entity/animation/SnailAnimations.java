@@ -1,4 +1,4 @@
-package cnb.test.entity.animation;
+package cnb.testmod.entity.animation;
 
 import net.minecraft.client.render.entity.animation.Animation;
 import net.minecraft.client.render.entity.animation.AnimationHelper;

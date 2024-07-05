@@ -1,7 +1,7 @@
-package cnb.test.entity.client;
+package cnb.testmod.entity.client;
 
-import cnb.test.TestMod;
-import cnb.test.entity.SnailEntity;
+import cnb.testmod.TestMod;
+import cnb.testmod.entity.SnailEntity;
 import net.minecraft.client.render.VertexConsumerProvider;
 import net.minecraft.client.render.entity.EntityRendererFactory;
 import net.minecraft.client.render.entity.MobEntityRenderer;

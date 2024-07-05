@@ -1,6 +1,6 @@
-package cnb.test.entity.client;
+package cnb.testmod.entity.client;
 
-import cnb.test.TestMod;
+import cnb.testmod.TestMod;
 import net.minecraft.client.render.entity.model.EntityModelLayer;
 import net.minecraft.util.Identifier;
 

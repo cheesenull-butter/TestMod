@@ -1,7 +1,7 @@
-package cnb.test.entity.client;
+package cnb.testmod.entity.client;
 
-import cnb.test.entity.SnailEntity;
-import cnb.test.entity.animation.SnailAnimations;
+import cnb.testmod.entity.SnailEntity;
+import cnb.testmod.entity.animation.SnailAnimations;
 import net.minecraft.client.model.*;
 import net.minecraft.client.render.VertexConsumer;
 import net.minecraft.client.render.entity.model.SinglePartEntityModel;
@@ -46,4 +46,5 @@ public class SnailModel<T extends SnailEntity> extends SinglePartEntityModel<T> 
     public ModelPart getPart() {
         return snail;
     }
+
 }

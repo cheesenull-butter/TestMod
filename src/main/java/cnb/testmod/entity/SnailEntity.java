@@ -1,4 +1,4 @@
-package cnb.test.entity;
+package cnb.testmod.entity;
 
 import net.minecraft.entity.AnimationState;
 import net.minecraft.entity.EntityPose;
